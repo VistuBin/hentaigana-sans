@@ -1,4 +1,4 @@
-# Hentaigana-Gothic
+# hentaigana-sans
 
 ![title](title.svg)
 
