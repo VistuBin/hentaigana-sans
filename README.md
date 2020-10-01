@@ -8,6 +8,6 @@
 
 有興趣參與？想要提出修改意見？我們歡迎您進行問題諮詢、提交拉取請求。
 
-策劃人員：[fitzgerald](zh.moegirl.org.cn/User:FITZGERALD)
+策劃人員：[fitzgerald](https://zh.moegirl.org.cn/User:FITZGERALD/)
 
-參與製作：[fitzgerald](zh.moegirl.org.cn/User:FITZGERALD)，[hulenkius](https://github.com/Hulenkius)，[sinzengo](zht.glyphwiki.org/wiki/User:sinzengo)
+參與製作：[hulenkius](https://github.com/Hulenkius)，[fitzgerald](https://zh.moegirl.org.cn/User:FITZGERALD/)，[sinzengo](https://zht.glyphwiki.org/wiki/User:sinzengo/)
