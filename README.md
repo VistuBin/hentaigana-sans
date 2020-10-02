@@ -1,3 +1,5 @@
+![](title.svg)
+
 # 簡介
 
 本項目旨在創造一套開源自由的、黑體風格的變體假名 (Kana Supplement & Kana Extended-A, 包括 Unicode 14.0 草案) 字型。字型檔、源矢量圖的使用、修改、再製等一切免費。
@@ -18,7 +20,7 @@
 曾參與製作：
 [sinzengo](https://zht.glyphwiki.org/wiki/User:sinzengo)
 
-# 本項目中使用的其他軟體：
+# 本項目中使用的其他軟體
 
 * [fontforge](https://github.com/fontforge/fontforge)
 
