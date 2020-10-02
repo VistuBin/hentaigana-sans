@@ -1,4 +1,4 @@
-![](title.svg)
+<center>![](title.svg)</center>
 
 # 簡介
 
