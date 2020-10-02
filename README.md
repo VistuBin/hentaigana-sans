@@ -17,7 +17,7 @@
 
 參與製作：
 [fitzgerald](https://zh.moegirl.org.cn/User:FITZGERALD)，
-[hulenkius](https://github.com/Hulenkius)，
+[hulenkius](https://github.com/Hulenkius)
 
 曾參與製作：
 [sinzengo](https://zht.glyphwiki.org/wiki/User:sinzengo)
