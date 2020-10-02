@@ -1,4 +1,6 @@
-<center>![](title.svg)</center>
+<p align="center">
+  <img alt="Title" title="Title" src="title.svg">
+</p>
 
 # 簡介
 
