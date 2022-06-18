@@ -1,3 +1,5 @@
+#  通告：因本字型醜陋無比，將重新製作一套新的遍體假名黑體。該倉庫已歸檔處置。
+
 <p align="center">
   <img alt="Title" title="Title" src="title.svg">
 </p>
